@@ -1,6 +1,9 @@
 Bemainty: 0.8.1
 ========
 
+![Bemainty Preview](screenshot.png "Bemainty")
+
+
 ENG
 ---
 Bemainty is a monochrome responsive theme, black and white, with your logo in the title box. The design is based on minimalism and simplicity. A special care is taken to the typography for a better reading and for the comfort of readers.
@@ -17,7 +20,6 @@ Bemainty est un thème responsive monochrome en noir et blanc, avec votre logo �
 
 Bemainty est mot d'origine malgache qui veut dire "le grand noir" d'où l'inspiration monochrome. Il est distribué en licence GNU/GPL alors n'hésitez pas à le partager, à le modifier ou à le faire connaitre.
 Salut, Paix et guérison sur les tiens.
-
 
 
 License: GNU General Public License v2 or later
